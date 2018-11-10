@@ -1,0 +1,151 @@
+None
+Ableton
+Ableton Live
+Accusonus
+Addictive Drums
+Addictive Keys
+ADSR
+AI
+Air Music Technology
+Alex Hilton
+Amazon
+Ample Sound
+Amplitube
+API
+Apple Music
+ARTURIA
+Auddict
+Audified
+Audio Assault
+AudioThing
+Avenger
+Avid
+BFD
+Big Fish Audio
+BITWIG
+Bitwig Studio
+Brainworx
+Cakewalk
+Compressor
+Crypton
+Cubase
+Cymatics
+DAW
+DOTEC-AUDIO
+EastWest
+ELECTRI6ITY
+EMU
+EQ
+Eventide
+FL Studio
+Frontline Producer
+FXpansion
+Heavier7Strings
+IK Multimedia
+Impact Soundworks
+Ivory
+iZotope
+MeldaProduction
+Melodyne
+Mozaic Beats
+MusicLab
+KOMPLETE
+KONTAKT
+KONTAKT Player
+KORG
+Lennar Digital
+Loopmasters
+Massive
+MODO BASS
+Moog
+Native Instruments
+Neutron
+Nomad Factory
+Nugen Audio
+Oberheim
+Omnisphere
+Ozone
+Plugin Alliance
+Plugin Boutique
+Premier Sound Factory
+PreSonus
+Prime Studio
+Prominy
+Real Guitar
+reFX
+Reveal Sound
+Roland
+Sample Magic
+Serato
+Serum
+Shreddage
+Softube
+SONAR
+Sonic Academy
+SONICWIRE
+Sonnox
+SoundCloud
+Soundiron
+Spectrasonics
+Spitfire Audio
+Spotify
+Stagecraft
+Steinberg
+Studio One
+SUPERIOR DRUMMER
+Sylenth1
+Synthmaster
+Three-Body Technology
+TOONTRACK
+UVI
+Vengeance
+VIENNA
+Vir2
+Vocaloid
+Voxengo
+Wave Alchemy
+Waves
+WavesFactory
+XLN Audio
+YAMAHA
+YouTube
+アナログ
+アンプ
+イコライザー
+ウーリッツァー
+エフェクター
+エフェクト
+エレキギター
+エレキベース
+エレクトリックピアノ
+オルガン
+オーケストラ
+コンプレッサー
+サチュレーター
+サンプラー
+サンプル
+サンプルパック
+シンセ
+シンセサイザー
+ステレオイメージャー
+ストリングス
+スピーカー
+チューナー
+テープ
+フィルター
+マキシマイザー
+マスタリング
+ミキシング
+モデリング
+リミッター
+リバーブ
+ローズ
+ギター
+ディストーション
+ディレイ
+ドラム
+バイオリン
+ブラックフライデー
+ベース
+ボーカル
+ピアノ
