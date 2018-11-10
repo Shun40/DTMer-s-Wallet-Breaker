@@ -1,4 +1,4 @@
-# DTMer's-Wallet-Breaker
+# DTMer's Wallet Breaker
 WebサイトからDTMプラグインセール記事をスクレイピングし、結果をHTMLに出力します。
 
 <img width="600" alt="dwb_ss1" src="https://user-images.githubusercontent.com/2443513/48303816-d0535000-e552-11e8-8ba5-655b2d396ba8.png">
