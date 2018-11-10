@@ -3,7 +3,7 @@ WebサイトからDTMプラグインセール記事をスクレイピングし�
 
 <img width="600" alt="dwb_ss1" src="https://user-images.githubusercontent.com/2443513/48303816-d0535000-e552-11e8-8ba5-655b2d396ba8.png">
 
-### 概要
+## 概要
 DTMプラグインセール記事をまとめている複数のWebサイトをスクレイピングし、セール記事を収集します。
 以下のWebサイトからセール記事を集めます。
 * [Computer Music Japan](https://computermusic.jp/category/セール/ "Computer Music Japan")
@@ -18,14 +18,14 @@ DTMプラグインセール記事をまとめている複数のWebサイトを�
 
 収集結果はHTMLで出力されるので、Webブラウザでセール情報を閲覧できます。
 
-### 必要なもの
+## 必要なもの
 * Python 3.7.0以上の実行環境
 * Pythonサードパーティパッケージ
   * Requests
   * Beautiful Soup 4
 
-### 使い方
-#### 1. スクレイピング
+## 使い方
+### 1. スクレイピング
 `web_scraper.py`を実行し、スクレイピングをおこないます。`-n`オプションで、各サイトからのセール記事取得件数`N`を指定できます。スクレイピングするWebサイトの数を`M`とすると、`N * M`個のセール記事を収集した後、そこから終了済みのセール記事を差し引いたものが最終的な収集結果となります。収集結果は`articles.pickle`へ出力されます。
 ```
 $ python3 script/web_scraper.py -n 100
@@ -40,12 +40,12 @@ $ python3 script/web_scraper.py -n 100
 > Scraping finished. Scraping takes 189.67374396324158 [sec]
 > Results saved to DTMer's-Wallet-Breaker/articles.pickle
 ```
-#### 2. HTML生成
+### 2. HTML生成
 `html_generater.py`を実行し、収集結果を表示するためのHTMLを生成します。生成の際、1.で出力された`articles.pickle`が必要です。`-ob(open browser)`オプションをつけると、生成されたHTMLをWebブラウザで自動で開いてくれます。なお、HTMLファイルは`html`ディレクトリの下に生成されます。
 ```
 $ python3 script/html_generater.py -ob
 ```
-#### 3. Webブラウザで閲覧
+### 3. Webブラウザで閲覧
 2.で`-ob`オプションをつけると、全セール記事のページが表示されます。
 
 <img width="600" alt="dwb_ss2" src="https://user-images.githubusercontent.com/2443513/48304115-3b068a80-e557-11e8-9973-c75025b4d60d.png">
